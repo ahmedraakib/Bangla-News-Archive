@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # বাংলা নিউজ আর্কাইভ - Bangla News Archive
 
 A modern, responsive Bengali crime news archive website built with React, Vite, and Tailwind CSS.
@@ -179,3 +180,6 @@ This project is for educational purposes.
 ---
 
 **Note**: This website is built for educational and demonstration purposes. Content shown is sample data only.
+=======
+# Bangla-News-Archive
+>>>>>>> 8d73fb4b89438d879ebad51369d571deb14e32f5
